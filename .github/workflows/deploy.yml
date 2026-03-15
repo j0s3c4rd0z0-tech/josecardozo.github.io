@@ -24,6 +24,7 @@ jobs:
         run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: 1
+          NEXT_PUBLIC_SITE_URL: https://j0s3c4rd0z0-tech.github.io
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

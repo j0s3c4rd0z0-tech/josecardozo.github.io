@@ -124,7 +124,7 @@ export default function About() {
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
-                vjordan.cs@gmail.com
+                j0s3c4rd0z0@gmail.com
               </SocialLink>
             </ul>
           </div>

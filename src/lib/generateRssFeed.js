@@ -9,7 +9,7 @@ export async function generateRssFeed() {
   let siteUrl = process.env.NEXT_PUBLIC_SITE_URL
   let author = {
     name: 'Jose Cardozo',
-    email: 'vjordan.cs@gmail.com',
+    email: 'j0s3c4rd0z0@gmail.com',
   }
 
   let feed = new Feed({

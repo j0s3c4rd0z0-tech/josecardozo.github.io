@@ -15,7 +15,7 @@ const projects = [
     description:
       "YOUphoria is built with Flutter and Firebase Authentication for seamless user experience and secure data handling. Google Maps API provides location-based resources, and ChatGPT API is leveraged to create an inclusive, age-appropriate AI chatbot, addressing teens' nuanced questions with personalized responses.",
     link: {
-      href: 'https://github.com/halcyonCore/youphoria',
+      href: 'https://github.com/j0s3c4rd0z0-tech',
       label: 'GitHub',
     },
     logo: youphoria,
